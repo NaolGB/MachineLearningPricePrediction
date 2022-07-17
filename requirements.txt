@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+matplotlib
+python-binance
+TA-Lib
+scikit-learn
