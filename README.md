@@ -17,7 +17,7 @@ Price prediction by classification. I performed binary classification and multil
 The back testing reveals that the models and strategy currently used here are not profitable. So, I am working on creating better strategies, models, and working on reinforcement learning to produce highly profitable system.  
 
 ## Possible Points of Upgrade
-This you can find with in the codes as comments. These are points of upgrade I imagined could better the program. This are suggestions, and also my focus as I improve this program.
+These you can find with in the codes as comments. These are points of upgrade I imagined could better the program. This are suggestions, and also my focus as I improve this program.
 
 ## Visualizations
 Visualizations for this project are made in Tableau because of the high quality visualizations Tableau creates. However, DataFrames are easily accessible from multiple points in the program so it is easy to plot any plot with Matplotlib or other methods.
