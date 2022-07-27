@@ -41,7 +41,7 @@ This image shows the progression of metrics as the model is fit with the trainin
 
 
 ![Binary back testing](Model-1/data/Binary_back_testing.png)
-This image shows the profit on back testing using the binary classification. While it is not in general profitable, profits are often observed in short positions (when the asset's price is falling) and losses are often observed on long positions (when the asset's price is rising). This is a very important visualization for the improvements on the system.
+This image shows the profit on back testing using the binary classification. The test was run on five months data (Jan 2022 - June 2022) on a single stratefy. The strategfy used was long/short for the prediction length (12 hours). While it is not in general profitable, profits are often observed in short positions (when the asset's price is falling) and losses are often observed on long positions (when the asset's price is rising). This is a very important visualization for the improvements on the system.
 
 
 <strong>Multi label Classification</strong>
@@ -59,7 +59,7 @@ This image shows the progression of metrics as the model is fit with the trainin
 
 
 ![MultiLabel back testing](Model-1/data/MultiLabel_back_testing.png)
-This image shows the profit on back testing using the multi label classification. While, like binary classification, it is not in general profitable, it is more profitable (less loss) than Binary classificaton. It is also less reactive to trends. The next steps in the improvement of this model would be increasing the number of data labeled as down and up trend (decreasing the range defined as sideways trend).
+This image shows the profit on back testing using the multi label classification. The test was run on five months data (Jan 2022 - June 2022) on a single stratefy. The strategfy used was long/short for the prediction length (12 hours). While, like binary classification, it is not in general profitable, it is more profitable (less loss) than Binary classificaton. It is also less reactive to trends. The next steps in the improvement of this model would be increasing the number of data labeled as down and up trend (decreasing the range defined as sideways trend).
 
 ## Current/Future Progress
 Currently, under this project, I am working on:
